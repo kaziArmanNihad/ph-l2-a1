@@ -18,6 +18,7 @@ solutions.ts ফাইল
 অ্যাসাইনমেন্টের Blog Task-এর জন্য TypeScript-এর দুটি বিষয় নিয়ে আলাদা Markdown ফাইল তৈরি করা হয়েছে:
 1. [TypeScript-এ Access Modifiers-এর ব্যবহার](./access-modifiers.md)
 2. [TypeScript-এ Union ও Intersection Types](./union-intersection-types.md)
+
 Repository-এর ফাইল কাঠামো
 ├── solutions.ts
 ├── access-modifiers.md
