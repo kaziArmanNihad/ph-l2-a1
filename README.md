@@ -19,12 +19,6 @@ solutions.ts ফাইল
 1. [TypeScript-এ Access Modifiers-এর ব্যবহার](./access-modifiers.md)
 2. [TypeScript-এ Union ও Intersection Types](./union-intersection-types.md)
 
-Repository-এর ফাইল কাঠামো
-├── solutions.ts
-├── access-modifiers.md
-├── union-and-intersection-types.md
-└── README.md
-
 উদ্দেশ্য:
 এই অ্যাসাইনমেন্টের মাধ্যমে TypeScript-এর type system, generics, readonly tuple, Promise, interface এবং OOP-এর গুরুত্বপূর্ণ বিষয়গুলো ব্যবহারিকভাবে অনুশীলন করা হয়েছে।
 
